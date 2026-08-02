@@ -24,8 +24,6 @@ This Chrome...
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://lunarautomata.gumroad.com/l/tpthno)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/00w5kDh1BaQA6xy5bucZu2y)** — Secure checkout
 
 ## Installation
@@ -37,7 +35,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://lunarautomata.gumroad.com/l/tpthno)
 
 ## License
 
